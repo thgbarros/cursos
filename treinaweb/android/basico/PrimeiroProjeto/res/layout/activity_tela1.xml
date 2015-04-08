@@ -24,7 +24,7 @@
         android:id="@+id/buttonProximo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/botao_ok" />
+        android:text="@string/botao_ok"/>
 
     <TextView
         android:id="@+id/textViewResposta"

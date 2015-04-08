@@ -9,5 +9,7 @@
     <string name="botao_proximo">Próxima Tela</string>
     <string name="botao_ok">OK</string>
     <string name="resposta">Resposta:</string>
+    <string name="ensino">Treinaweb Cursos</string>
+    <string name="titulo">Informações do Curso</string>
 
 </resources>
