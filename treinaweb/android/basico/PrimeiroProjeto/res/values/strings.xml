@@ -11,5 +11,6 @@
     <string name="resposta">Resposta:</string>
     <string name="ensino">Treinaweb Cursos</string>
     <string name="titulo">Informações do Curso</string>
+    <string name="botao_voltar">Voltar</string>
 
 </resources>
