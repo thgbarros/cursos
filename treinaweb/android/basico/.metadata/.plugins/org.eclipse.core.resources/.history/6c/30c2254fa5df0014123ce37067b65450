@@ -1,0 +1,25 @@
+package br.com.treinaweb.primeiroprojeto;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.support.v4.media.session.PlaybackStateCompat.CustomAction;
+import android.widget.ArrayAdapter;
+
+public class Tela7 extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_tela7);
+		
+		String[] cursos = getResources().getStringArray(R.array.cursos);
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_gallery_item, cursos);
+		
+	}
+
+	
+	
+	
+	
+}

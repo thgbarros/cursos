@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Exemplo Treinaweb</string>
+    <string name="ola_mundo">Treinaweb Cursos</string>
+    <string name="aluno">Carlos Santos Silva</string>
+    <string name="curso">Android Básico</string>
+    <string name="msg">Digite seu nome abaixo</string>
+    <string name="text_nome"/>
+    <string name="botao_proximo">Próxima Tela</string>
+    <string name="botao_ok">OK</string>
+    <string name="resposta">Resposta:</string>
+    <string name="ensino">Treinaweb Cursos</string>
+    <string name="titulo">Informações do Curso</string>
+    <string name="botao_voltar">Voltar</string>
+    <string name="nome">Nome: </string>
+    <string name="rotulo">Rotulo</string>
+    
+    <string-array name="cursos">
+        <item >Curso Android Básico</item>
+        <item>Curso Java básico</item>
+	    <item>Curso C# básico</item>
+	    <item>Curso VB.NET básico</item>
+    </string-array>
+    
+    <string name="menu_archive">Arquivo</string>
+    <string name="menu_attachment">Adicionar um arquivo</string>
+    <string name="menu_delete">Excluir</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_save">Salvar</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_more">Mais</string>
+
+</resources>
