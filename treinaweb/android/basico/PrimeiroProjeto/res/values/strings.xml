@@ -12,5 +12,14 @@
     <string name="ensino">Treinaweb Cursos</string>
     <string name="titulo">Informações do Curso</string>
     <string name="botao_voltar">Voltar</string>
+    <string name="nome">Nome: </string>
+    <string name="rotulo">Rotulo</string>
+    
+    <string-array name="cursos">
+        <item >Curso Android Básico</item>
+        <item>Curso Java básico</item>
+	    <item>Curso C# básico</item>
+	    <item>Curso VB.NET básico</item>
+    </string-array>
 
 </resources>

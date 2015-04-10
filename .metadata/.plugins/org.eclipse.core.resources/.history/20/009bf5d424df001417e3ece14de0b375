@@ -1,0 +1,25 @@
+package br.com.treinaweb.primeiroprojeto;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+public class Tela6 extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_tela6);
+		
+		String[] cursos = getResources().getStringArray(R.array.cursos);
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_gallery_item, cursos);
+		
+		ListView list = (ListView) findViewById(R.id.listViewCursos);
+		list.setAdapter(adapter);
+	}
+
+	
+	
+}
