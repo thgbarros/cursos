@@ -8915,3 +8915,871 @@ java.lang.NullPointerException
 	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
 	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:160)
 	at java.lang.Thread.run(Thread.java:745)
+!SESSION 2015-04-17 16:00:29.056 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:48:21.577
+!MESSAGE Failed to load properties file for project 'ActionBarTabls'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:48:26.637
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:48:26.655
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:48:26.655
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:48:26.706
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:04.069
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:04.070
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:04.071
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:04.072
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:29.783
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:29.784
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:29.784
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:50:29.785
+!MESSAGE activity_main.xml: Failed to find style 'textViewStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:51:47.765
+!MESSAGE Failed to load properties file for project 'ActionBarTabs'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:53:34.287
+!MESSAGE Failed to load properties file for project 'ActionBarTabs'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.916
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.917
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.918
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.919
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.920
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.921
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.922
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.923
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.924
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.925
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.926
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.927
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.928
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.929
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.930
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.931
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.931
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.931
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 16:54:47.931
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.019
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.019
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.019
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.019
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.020
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.020
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.020
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.020
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.022
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/hello_world
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.467
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.468
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.468
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.468
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.468
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.468
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.469
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.469
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:54:48.470
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/hello_world
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.168
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.168
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.168
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.168
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.169
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.169
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.169
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.169
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:44.170
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/hello_world
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.278
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.279
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:47.279
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.369
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.369
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.369
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.369
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.370
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.370
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.370
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.370
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.691
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.691
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.691
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.691
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.692
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.692
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.692
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:55.692
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: Couldn't resolve resource @dimen/activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingLeft" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.191
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingTop" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.192
+!MESSAGE activity_main.xml: "@dimen/activity_horizontal_margin" in attribute "paddingRight" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-04-17 16:56:58.192
+!MESSAGE activity_main.xml: "@dimen/activity_vertical_margin" in attribute "paddingBottom" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.796
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.796
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.796
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.797
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.798
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.799
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.800
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.801
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.802
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.803
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.804
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.805
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.806
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.807
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.808
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.808
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.808
+!MESSAGE Current file is not a match for the given config.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-04-17 17:07:15.808
+!MESSAGE Current file is not a match for the given config.

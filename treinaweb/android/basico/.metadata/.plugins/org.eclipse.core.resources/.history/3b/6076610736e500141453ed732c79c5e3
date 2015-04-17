@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_archive" 
+          android:icon="@drawable/ic_menu_archive" 
+          android:title="@string/menu_archive"
+          android:showAsAction="ifRoom|withText"></item>
+    <item android:id="@+id/menu_edit" 
+          android:icon="@drawable/ic_menu_edit" 
+          android:title="@string/menu_edit"
+          android:showAsAction="ifRoom|withText"></item>
+    <item android:id="@+id/menu_save" 
+          android:icon="@drawable/ic_menu_save" 
+          android:title="@string/menu_save"
+          android:showAsAction="never"></item>
+    <item android:id="@+id/menu_home" 
+          android:icon="@drawable/ic_menu_home" 
+          android:title="@string/menu_home"
+          android:showAsAction="never"></item>
+    <item android:id="@+id/menu_delete" 
+          android:icon="@drawable/ic_menu_delete" 
+          android:title="@string/menu_delete"
+          android:showAsAction="never"></item>
+    <item android:id="@+id/menu_more" 
+          android:icon="@drawable/ic_menu_more" 
+          android:title="@string/menu_more">
+    	<menu>
+    	    <group android:checkableBehavior="single">
+	    	    <item android:id="@+id/menu_search"
+	    	        android:icon="@drawable/ic_menu_search"
+	    	        android:title="@string/menu_search"/>
+	    	    <item android:id="@+id/menu_attachment"
+	    	        android:icon="@drawable/ic_menu_attachment"
+	    	        android:title="@string/menu_attachment"/>
+	    	</group>
+    	</menu>
+        
+    </item>
+
+</menu>

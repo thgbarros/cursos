@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.actionbartab&apos; to &apos;com.example.actionbartabs&apos;&#x0A;- Original project: &apos;ActionBarTabs&apos;&#x0A;- Original element: &apos;ActionBarTabs/src/com.example.actionbartab&apos;&#x0A;- Renamed element: &apos;ActionBarTabs/src/com.example.actionbartabs&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.actionbartab&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.example.actionbartab" name="com.example.actionbartabs" qualified="false" references="true" stamp="1429301452137" textual="false" version="1.0"/>
+</session>

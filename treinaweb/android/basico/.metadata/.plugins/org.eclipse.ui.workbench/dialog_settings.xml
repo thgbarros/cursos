@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="308" key="dialogWidth"/>
-		<item value="208" key="dialogHeight"/>
+		<item value="782" key="dialogWidth"/>
+		<item value="622" key="dialogHeight"/>
 		<list key="orderedProviders">
 			<item value="org.eclipse.ui.commands"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textArray">
-			<item value="override"/>
+			<item value="constr"/>
 			<item value="me"/>
 		</list>
 		<list key="orderedElements">
-			<item value="org.eclipse.jdt.ui.edit.text.java.override.methods"/>
+			<item value="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields"/>
 			<item value="org.eclipse.jdt.ui.MembersView"/>
 		</list>
 		<list key="textEntries">
@@ -25,9 +25,10 @@
 		<item value="270" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="com.android.ide.eclipse.wizards.category"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
 		</list>
 	</section>
 	<section name="ShowViewDialog">

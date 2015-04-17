@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">Exemplo Treinaweb</string>
-    <string name="ola_mundo">Treinaweb Cursos</string>
-    <string name="aluno">Carlos Santos Silva</string>
-    <string name="curso">Android Básico</string>
-
-</resources>

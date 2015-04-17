@@ -15,6 +15,7 @@ public class Tela1 extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_tela1);
+		getActionBar().setDisplayHomeAsUpEnabled(true);
 						
 		Button btn = (Button) findViewById(R.id.buttonProximo);
 		btn.setOnClickListener(clickListener);

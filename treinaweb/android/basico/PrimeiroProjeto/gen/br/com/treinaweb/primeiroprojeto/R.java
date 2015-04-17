@@ -43,11 +43,13 @@ public final class R {
         public static final int extTextNome=0x7f090001;
         public static final int listViewCursos=0x7f09000e;
         public static final int menu_archive=0x7f090012;
+        public static final int menu_attachment=0x7f090019;
         public static final int menu_delete=0x7f090016;
         public static final int menu_edit=0x7f090013;
         public static final int menu_home=0x7f090015;
         public static final int menu_more=0x7f090017;
         public static final int menu_save=0x7f090014;
+        public static final int menu_search=0x7f090018;
         public static final int spinnerCursos=0x7f09000f;
         public static final int tableRow1=0x7f090009;
         public static final int tableRow2=0x7f09000b;
