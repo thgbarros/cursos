@@ -1,0 +1,16 @@
+package br.com.treinaweb.segundoprojeto;
+
+public class Curso {
+
+	private String nome;
+
+	public Curso(){}
+	
+	public Curso(String nome) {
+		super();
+		this.nome = nome;
+	}
+	
+	
+	
+}

@@ -1,0 +1,7 @@
+package br.com.treinaweb.segundoprojeto;
+
+public class Curso {
+
+	private String nome;
+	
+}

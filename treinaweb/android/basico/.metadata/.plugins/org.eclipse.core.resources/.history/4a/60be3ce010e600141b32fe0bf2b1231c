@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Segundo Projeto</string>
+    <string name="labelCurso">Curso:</string>
+    <string name="botaoSalvar">Salvar</string>
+    <string name="titulo">Cadastro de Cursos</string>
+    <string name="vazio">TODO</string>
+
+</resources>

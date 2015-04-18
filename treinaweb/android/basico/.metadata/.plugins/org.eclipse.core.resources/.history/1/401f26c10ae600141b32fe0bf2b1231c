@@ -1,0 +1,10 @@
+package br.com.treinaweb.segundoprojeto;
+
+import java.util.List;
+
+public class RegistryCursoStore {
+
+	private static RegistryCursoStore _theInstance;
+	private List<Curso> cursos;
+	
+}

@@ -1,0 +1,27 @@
+package br.com.treinaweb.segundoprojeto;
+
+import java.util.List;
+
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+
+public class ListCourseFragment extends Fragment {
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {		
+		View view = inflater.inflate(R.layout.fragment_course_list, container, false)		
+		return view;
+	}
+	
+	@Override
+	public void onStart() {	
+		super.onStart();
+		List<Curso> cursos = RegistryCursoStore.getCursos();
+		ArrayAdapter<Curso> mAdapter = new ArrayAdapter<Curso>(getActivity(), android.R.layout.simple_gallery_item)
+	}
+	
+}
