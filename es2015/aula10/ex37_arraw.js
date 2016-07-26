@@ -16,6 +16,7 @@ const isPrecoAlto = item => item.preco >= 1000;
 const isFragil = item => item.fragil;
 const somatorio = (total, qtde) => total + qtde;
 
+
 const qtdeProdutosCarosEFrageis = estoque
 .filter(isPrecoAlto)
 .filter(isFragil)
